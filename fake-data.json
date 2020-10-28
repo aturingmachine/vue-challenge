@@ -1,0 +1,3470 @@
+{
+  "deals": [
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "MKF Collection"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/handbags",
+          "name": "Handbags",
+          "slug": "women/handbags"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BRDVIL16",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469014\">Villa Crossbody</a> from <a href=\"https://www.bradsdeals.com/go/p/469014\">MKF Collection</a> drops to $24.99 when you enter our exclusive code BRDVIL16 at checkout. This sells elsewhere for $28 or more. Plus shipping is free. The faux-leather bag is expandable and measures 8.5\" long x 9.5\" high x 2.5\" deep. Choose from six colors. Sales tax is charged in most states.",
+      "description_preview": "This Villa Crossbody from MKF Collection drops to $24.99 when you enter our exclusive code BRDVIL...",
+      "details": "",
+      "editor": "Melissa",
+      "editor_bd_user_id": "61479675",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-21T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469014",
+      "headline": "MKF Villa Crossbody $25 Shipped",
+      "id": 469014,
+      "image": "https://cdn-images.bradsdeals.com/prod/377470/deal_160x160/MKF-386A-BK__28Black_29__281_29.jpg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377470/deal_88x88/MKF-386A-BK__28Black_29__281_29.jpg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377470/deal_160x160/MKF-386A-BK__28Black_29__281_29.jpg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377470/deal_310x310/MKF-386A-BK__28Black_29__281_29.jpg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377470/original/MKF-386A-BK__28Black_29__281_29.jpg"
+      },
+      "instructions": "<p>Enter our exclusive code <code>BRDVIL16</code> at checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 16,
+        "coupon_type_counts": {
+          "online": 16,
+          "online_with_codes": 16,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 28,
+        "id": 5747,
+        "logo": "https://cdn-images.bradsdeals.com/prod/279777/merchant_125x40/mkf_logo_250.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/279777/merchant_100x32/mkf_logo_250.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/279777/merchant_125x40/mkf_logo_250.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/279777/merchant_250x80/mkf_logo_250.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/279777/original/mkf_logo_250.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": null
+        },
+        "name": "MKF Collection",
+        "payment_types": [],
+        "site_url": "mkfcollection.com",
+        "slug": "mkf-collection",
+        "uri": "/api/v1/merchants/mkf-collection"
+      },
+      "msrp": "179.00",
+      "price": "24.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/handbags",
+        "name": "Handbags",
+        "slug": "women/handbags"
+      },
+      "quote": "<p>Choose from six colors.</p>",
+      "ranking": "3.85",
+      "related_deals_uri": "/api/v1/deals/469014/related",
+      "shipped_price": "24.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T19:00:00.000-04:00",
+      "teaser_headline": "$25 MKF Crossbody",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469014"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Tiosebon"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/shoes/womens-boots",
+          "name": "Women's Boots",
+          "slug": "shoes/womens-boots"
+        },
+        {
+          "uri": "/api/v1/categories/shoes/mens-boots",
+          "name": "Men's Boots",
+          "slug": "shoes/mens-boots"
+        },
+        {
+          "uri": "/api/v1/categories/shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BD16",
+      "description": "Through 11/16, these <a href=\"https://www.bradsdeals.com/go/p/469048\">Plush Faux-Fur-Lined Boots</a> drop from $38.49 to $30.49 when you enter our exclusive code BD16 during checkout at <a href=\"https://www.bradsdeals.com/go/p/469048\">Tiosebon</a>. Shipping adds $5. Similar pairs start at $40 or more elsewhere. They come in multiple colors in a variety of sizes for both men and women. Sales tax is charged in most states.",
+      "description_preview": "Through 11/16, these Plush Faux-Fur-Lined Boots drop from $38.49 to $30.49 when you enter our exc...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-16T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Fall Fashion",
+          "slug": "fall-fashion-bargains",
+          "id": 174
+        },
+        {
+          "name": "Direct Merchant - Women’s Fashion",
+          "slug": "direct-merchant-women-s-fashion",
+          "id": 228
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469048",
+      "headline": "Faux-Fur-Lined Boots $35 Shipped",
+      "id": 469048,
+      "image": "https://cdn-images.bradsdeals.com/prod/377504/deal_160x160/plush-faux-fur-lined-boots.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377504/deal_88x88/plush-faux-fur-lined-boots.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377504/deal_160x160/plush-faux-fur-lined-boots.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377504/deal_310x310/plush-faux-fur-lined-boots.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377504/original/plush-faux-fur-lined-boots.jpeg"
+      },
+      "instructions": "<p>Enter our exclusive code <code>BD16</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 6,
+        "coupon_type_counts": {
+          "online": 5,
+          "online_with_codes": 5,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 10,
+        "id": 6183,
+        "logo": "https://cdn-images.bradsdeals.com/prod/331959/merchant_125x40/Tiosebon__Konhill_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/331959/merchant_100x32/Tiosebon__Konhill_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/331959/merchant_125x40/Tiosebon__Konhill_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/331959/merchant_250x80/Tiosebon__Konhill_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/331959/original/Tiosebon__Konhill_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Tiosebon",
+        "payment_types": [],
+        "site_url": "tiosebon.com",
+        "slug": "tiosebon",
+        "uri": "/api/v1/merchants/tiosebon"
+      },
+      "msrp": "38.49",
+      "price": "30.49",
+      "primary_category": {
+        "uri": "/api/v1/categories/shoes/womens-boots",
+        "name": "Women's Boots",
+        "slug": "shoes/womens-boots"
+      },
+      "quote": "<p>Similar pairs start at $40 or more elsewhere.</p>",
+      "ranking": "0.15",
+      "related_deals_uri": "/api/v1/deals/469048/related",
+      "shipped_price": "35.49",
+      "shipping_cost": "5.00",
+      "starts_at": "2020-10-26T18:52:00.000-04:00",
+      "teaser_headline": "$35 Boots",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469048"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Afonie"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/jewelry-watches/womens-jewelry",
+          "name": "Women's Jewelry",
+          "slug": "jewelry-watches/womens-jewelry"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches",
+          "name": "Jewelry & Watches",
+          "slug": "jewelry-watches"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "SHIPFREE",
+      "description": "These <a href=\"https://www.bradsdeals.com/go/p/468863\">Gold-Plated Diamond-Accent Hoops</a> drop from $89 to $18 at <a href=\"https://www.bradsdeals.com/go/p/468863\">Afonie</a>. Shipping is free when you enter code SHIPFREE during checkout. We didn't find these anywhere else, but similar pairs start at $30 elsewhere. They're made of 18K-gold-plated brass with 1/2 ct tw diamond accents. Sales tax is charged in most states.",
+      "description_preview": "These Gold-Plated Diamond-Accent Hoops drop from $89 to $18 at Afonie. Shipping is free when you ...",
+      "details": "",
+      "editor": "Cindy",
+      "editor_bd_user_id": "51428654",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-03T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/468863",
+      "headline": "Diamond-Accent Hoop Earrings $18 Shipped",
+      "id": 468863,
+      "image": "https://cdn-images.bradsdeals.com/prod/377330/deal_160x160/diamondaccenthoopearrings.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377330/deal_88x88/diamondaccenthoopearrings.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377330/deal_160x160/diamondaccenthoopearrings.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377330/deal_310x310/diamondaccenthoopearrings.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377330/original/diamondaccenthoopearrings.jpeg"
+      },
+      "instructions": "<p>Enter code <code>SHIPFREE</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 2
+        },
+        "deal_count": 12,
+        "id": 6650,
+        "logo": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/358909/merchant_100x32/afonie_logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/358909/merchant_250x80/afonie_logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/358909/original/afonie_logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "AFONiE",
+        "payment_types": [],
+        "site_url": "afonie.com",
+        "slug": "afonie",
+        "uri": "/api/v1/merchants/afonie"
+      },
+      "msrp": "89.00",
+      "price": "18.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/jewelry-watches/womens-jewelry",
+        "name": "Women's Jewelry",
+        "slug": "jewelry-watches/womens-jewelry"
+      },
+      "quote": "<p>This is the best price by at least $12.</p>",
+      "ranking": "0.05",
+      "related_deals_uri": "/api/v1/deals/468863/related",
+      "shipped_price": "18.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T18:35:00.000-04:00",
+      "teaser_headline": "$18 Earrings",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/468863"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Abba Patio"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/lighting-fans",
+          "name": "Lighting & Fans",
+          "slug": "home/lighting-fans"
+        },
+        {
+          "uri": "/api/v1/categories/home/art-accessories",
+          "name": "Art & Accessories",
+          "slug": "home/art-accessories"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "L10",
+      "description": "Through 11/5, these <a href=\"https://www.bradsdeals.com/go/p/469047\">23' Snowflake String Lights</a> fall from $25.99 to $10.99 when you enter code L10 during checkout at <a href=\"https://www.bradsdeals.com/go/p/469047\">Abba Patio</a>. Shipping is free. This is the best price we found by $13. This string includes 50 LED snowflakes and comes with a remote. Note these require three AA batteries that are not included. Sales tax is charged in most states.",
+      "description_preview": "Through 11/5, these 23' Snowflake String Lights fall from $25.99 to $10.99 when you enter code L1...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-05T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Holiday Decor",
+          "slug": "holiday-decor",
+          "id": 88
+        },
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Deals Under $15",
+          "slug": "deals-under-15",
+          "id": 173
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Direct Merchant - Home",
+          "slug": "direct-merchant-home",
+          "id": 224
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469047",
+      "headline": "23' Snowflake String Lights $11 Shipped",
+      "id": 469047,
+      "image": "https://cdn-images.bradsdeals.com/prod/377502/deal_160x160/23-foot-led-snowflake-string-lights.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377502/deal_88x88/23-foot-led-snowflake-string-lights.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377502/deal_160x160/23-foot-led-snowflake-string-lights.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377502/deal_310x310/23-foot-led-snowflake-string-lights.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377502/original/23-foot-led-snowflake-string-lights.jpeg"
+      },
+      "instructions": "<p>Enter code <code>L10</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 1,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 2,
+        "id": 5898,
+        "logo": "https://cdn-images.bradsdeals.com/prod/295519/merchant_125x40/abbapatio3_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/295519/merchant_100x32/abbapatio3_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/295519/merchant_125x40/abbapatio3_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/295519/merchant_250x80/abbapatio3_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/295519/original/abbapatio3_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Abba Patio",
+        "payment_types": [],
+        "site_url": "www.abbapatio.com",
+        "slug": "abba-patio",
+        "uri": "/api/v1/merchants/abba-patio"
+      },
+      "msrp": "25.99",
+      "price": "10.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/art-accessories",
+        "name": "Art & Accessories",
+        "slug": "home/art-accessories"
+      },
+      "quote": "<p>This includes 50 LED snowflakes and comes with a remote.</p>",
+      "ranking": "0.0",
+      "related_deals_uri": "/api/v1/deals/469047/related",
+      "shipped_price": "10.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T18:34:00.000-04:00",
+      "teaser_headline": "$11 String Lights",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469047"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Tomons"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/office-education/office-supplies",
+          "name": "Office Supplies",
+          "slug": "office-education/office-supplies"
+        },
+        {
+          "uri": "/api/v1/categories/home/lighting-fans",
+          "name": "Lighting & Fans",
+          "slug": "home/lighting-fans"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "DIMLAMP",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469045\">LED Desk Lamp</a> drops from $32.99 to $16.99 when you enter code DIMLAMP during checkout at <a href=\"https://www.bradsdeals.com/go/p/469045\">Inateck</a>. Shipping is free. This is the best price we found by $1. This dimmable lamp charges via USB port and has up to a 20 hour battery life. It has multiple brightness levels and is equipped with a phone stand. Sales tax is charged in most states.",
+      "description_preview": "This LED Desk Lamp drops from $32.99 to $16.99 when you enter code DIMLAMP during checkout at Ina...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-05T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Tech Deals",
+          "slug": "tech-deals-best-of-tech",
+          "id": 115
+        },
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Direct Merchant - Home",
+          "slug": "direct-merchant-home",
+          "id": 224
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469045",
+      "headline": "LED Desk Lamp $17 Shipped",
+      "id": 469045,
+      "image": "https://cdn-images.bradsdeals.com/prod/377499/deal_160x160/led-dimmable-desk-lamp.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377499/deal_88x88/led-dimmable-desk-lamp.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377499/deal_160x160/led-dimmable-desk-lamp.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377499/deal_310x310/led-dimmable-desk-lamp.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377499/original/led-dimmable-desk-lamp.jpeg"
+      },
+      "instructions": "<p>Enter code <code>DIMLAMP</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 0,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 2,
+        "id": 6004,
+        "logo": "https://cdn-images.bradsdeals.com/prod/308118/merchant_125x40/inatecklogo1.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/308118/merchant_100x32/inatecklogo1.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/308118/merchant_125x40/inatecklogo1.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/308118/merchant_250x80/inatecklogo1.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/308118/original/inatecklogo1.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Inateck",
+        "payment_types": [],
+        "site_url": "www.inateck.com",
+        "slug": "inateck",
+        "uri": "/api/v1/merchants/inateck"
+      },
+      "msrp": "32.99",
+      "price": "16.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/lighting-fans",
+        "name": "Lighting & Fans",
+        "slug": "home/lighting-fans"
+      },
+      "quote": "<p>This has multiple brightness levels and is equipped with a phone stand.</p>",
+      "ranking": "0.09",
+      "related_deals_uri": "/api/v1/deals/469045/related",
+      "shipped_price": "16.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T18:05:00.000-04:00",
+      "teaser_headline": "$17 Desk Lamp",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469045"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Afonie"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/jewelry-watches/mens-watches-jewelry",
+          "name": "Men's Watches & Jewelry",
+          "slug": "jewelry-watches/mens-watches-jewelry"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches/womens-jewelry",
+          "name": "Women's Jewelry",
+          "slug": "jewelry-watches/womens-jewelry"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches",
+          "name": "Jewelry & Watches",
+          "slug": "jewelry-watches"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "SHIPFREE",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/468858\">Leather Anchor Bracelet</a> from <a href=\"https://www.bradsdeals.com/go/p/468858\">Afonie</a> drops from $55 to $12, and shipping is free when you enter code SHIPFREE during checkout. Similar bracelets start at $15. It features a stainless steel anchor charm and a magnetic clasp. Choose from silver or black. Sales tax is charged in most states.",
+      "description_preview": "This Leather Anchor Bracelet from Afonie drops from $55 to $12, and shipping is free when you ent...",
+      "details": "",
+      "editor": "Cindy",
+      "editor_bd_user_id": "51428654",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-03T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Deals Under $15",
+          "slug": "deals-under-15",
+          "id": 173
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/468858",
+      "headline": "Leather Anchor Bracelet $12 Shipped",
+      "id": 468858,
+      "image": "https://cdn-images.bradsdeals.com/prod/377325/deal_160x160/leatheranchorbracelet.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377325/deal_88x88/leatheranchorbracelet.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377325/deal_160x160/leatheranchorbracelet.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377325/deal_310x310/leatheranchorbracelet.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377325/original/leatheranchorbracelet.jpeg"
+      },
+      "instructions": "<p>Enter code <code>SHIPFREE</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 2
+        },
+        "deal_count": 12,
+        "id": 6650,
+        "logo": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/358909/merchant_100x32/afonie_logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/358909/merchant_250x80/afonie_logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/358909/original/afonie_logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "AFONiE",
+        "payment_types": [],
+        "site_url": "afonie.com",
+        "slug": "afonie",
+        "uri": "/api/v1/merchants/afonie"
+      },
+      "msrp": "55.00",
+      "price": "12.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/jewelry-watches/mens-watches-jewelry",
+        "name": "Men's Watches & Jewelry",
+        "slug": "jewelry-watches/mens-watches-jewelry"
+      },
+      "quote": "<p>Choose from silver or black.</p>",
+      "ranking": "0.03",
+      "related_deals_uri": "/api/v1/deals/468858/related",
+      "shipped_price": "12.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T18:00:00.000-04:00",
+      "teaser_headline": "$12 Leather Bracelet",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/468858"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "MF Studio"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/patio-lawn-garden/outdoor-living",
+          "name": "Outdoor Living",
+          "slug": "patio-lawn-garden/outdoor-living"
+        },
+        {
+          "uri": "/api/v1/categories/patio-lawn-garden",
+          "name": "Patio, Lawn & Garden",
+          "slug": "patio-lawn-garden"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BPC50",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469044\">10' Solar LED Patio Umbrella</a>, originally $145.99, drops to $95.99 when you enter code BPC50 during checkout at <a href=\"https://www.bradsdeals.com/go/p/469044\">Alphamarts.com</a>. Shipping is free. This is the lowest price we've seen and the best price we found online by $5! This umbrella has 32 LED lights powered by a solar panel. It's available in two colors. Note a crossbar is included but a base is not. Sales tax is charged in most states.",
+      "description_preview": "This 10' Solar LED Patio Umbrella, originally $145.99, drops to $95.99 when you enter code BPC50 ...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-30T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469044",
+      "headline": "10' LED Patio Umbrella $96 Shipped",
+      "id": 469044,
+      "image": "https://cdn-images.bradsdeals.com/prod/377496/deal_160x160/10-foot-led-patio-umbrella.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377496/deal_88x88/10-foot-led-patio-umbrella.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377496/deal_160x160/10-foot-led-patio-umbrella.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377496/deal_310x310/10-foot-led-patio-umbrella.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377496/original/10-foot-led-patio-umbrella.jpeg"
+      },
+      "instructions": "<p>Enter code <code>BPC50</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 1,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 2,
+        "id": 5903,
+        "logo": "https://cdn-images.bradsdeals.com/prod/297706/merchant_125x40/alphamartslogo1.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/297706/merchant_100x32/alphamartslogo1.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/297706/merchant_125x40/alphamartslogo1.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/297706/merchant_250x80/alphamartslogo1.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/297706/original/alphamartslogo1.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "AlphaMarts.com",
+        "payment_types": [],
+        "site_url": "www.alphamarts.com",
+        "slug": "alphamarts-com",
+        "uri": "/api/v1/merchants/alphamarts-com"
+      },
+      "msrp": "145.99",
+      "price": "95.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/patio-lawn-garden/outdoor-living",
+        "name": "Outdoor Living",
+        "slug": "patio-lawn-garden/outdoor-living"
+      },
+      "quote": "<p>This has 32 LED lights powered by a solar panel.</p>",
+      "ranking": "29.85",
+      "related_deals_uri": "/api/v1/deals/469044/related",
+      "shipped_price": "95.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:37:00.000-04:00",
+      "teaser_headline": "$96 Patio Umbrella",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469044"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Starlette Galleria"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/jewelry-watches/engagement-rings",
+          "name": "Engagement Rings",
+          "slug": "jewelry-watches/engagement-rings"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches/sterling-silver-gold-jewelry",
+          "name": "Sterling Silver & Gold Jewelry",
+          "slug": "jewelry-watches/sterling-silver-gold-jewelry"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches",
+          "name": "Jewelry & Watches",
+          "slug": "jewelry-watches"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BRAD75",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/468861\">2 ct tw Round Cut Halo CZ Engagement Ring</a> drops from $124.99 to $31 when you enter our exclusive code BRAD75 during checkout at <a href=\"https://www.bradsdeals.com/go/p/468861\">Starlette Galleria</a>. Shipping adds $3.99. This is the best price we found on similar rings by at least $7. The setting is made of certified 925 sterling silver and plated in rhodium. Choose from silver or gold finish in sizes 4-11. Sales tax is charged in most states.",
+      "description_preview": "This 2 ct tw Round Cut Halo CZ Engagement Ring drops from $124.99 to $31 when you enter our exclu...",
+      "details": "",
+      "editor": "Cindy",
+      "editor_bd_user_id": "51428654",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-10T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/468861",
+      "headline": "CZ Halo Engagement Ring $35 Shipped",
+      "id": 468861,
+      "image": "https://cdn-images.bradsdeals.com/prod/377327/deal_160x160/2_carat_round_cut_halo_engagement_ring.jpg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377327/deal_88x88/2_carat_round_cut_halo_engagement_ring.jpg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377327/deal_160x160/2_carat_round_cut_halo_engagement_ring.jpg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377327/deal_310x310/2_carat_round_cut_halo_engagement_ring.jpg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377327/original/2_carat_round_cut_halo_engagement_ring.jpg"
+      },
+      "instructions": "<p>Enter our exclusive  code <code>BRAD75</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 2,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 3,
+        "id": 6273,
+        "logo": "https://cdn-images.bradsdeals.com/prod/344347/merchant_125x40/Starlette_Galleria_logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/344347/merchant_100x32/Starlette_Galleria_logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/344347/merchant_125x40/Starlette_Galleria_logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/344347/merchant_250x80/Starlette_Galleria_logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/344347/original/Starlette_Galleria_logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Starlette Galleria",
+        "payment_types": [],
+        "site_url": "www.starlettegalleria.com",
+        "slug": "starlette-galleria",
+        "uri": "/api/v1/merchants/starlette-galleria"
+      },
+      "msrp": "124.99",
+      "price": "31.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/jewelry-watches/engagement-rings",
+        "name": "Engagement Rings",
+        "slug": "jewelry-watches/engagement-rings"
+      },
+      "quote": "<p>Choose from two finishes.</p>",
+      "ranking": "1.45",
+      "related_deals_uri": "/api/v1/deals/468861/related",
+      "shipped_price": "34.99",
+      "shipping_cost": "3.99",
+      "starts_at": "2020-10-26T17:30:00.000-04:00",
+      "teaser_headline": "$35 Ring",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/468861"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "New Balance"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+          "name": "Women's Athletic Shoes",
+          "slug": "shoes/womens-athletic-shoes"
+        },
+        {
+          "uri": "/api/v1/categories/shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "These women's <a href=\"https://www.bradsdeals.com/go/p/469043\">New Balance FuelCore Coast V3 Shoes</a> in wide drop from $64.99 to $30.99 at <a href=\"https://www.bradsdeals.com/go/p/469043\">Joe's New Balance Outlet</a>. Plus shipping is free. That's the lowest price we could find by at least $7. Wide sizes 5-10.5 are available. Sales tax is charged in most states.",
+      "description_preview": "These women's New Balance FuelCore Coast V3 Shoes in wide drop from $64.99 to $30.99 at Joe's New...",
+      "details": "",
+      "editor": "Beverly",
+      "editor_bd_user_id": "81719428",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-14T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469043",
+      "headline": "New Balance FuelCore Shoes $31 Shipped",
+      "id": 469043,
+      "image": "https://cdn-images.bradsdeals.com/prod/377494/deal_160x160/nbfuel.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377494/deal_88x88/nbfuel.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377494/deal_160x160/nbfuel.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377494/deal_310x310/nbfuel.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377494/original/nbfuel.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 4,
+        "coupon_type_counts": {
+          "online": 4,
+          "online_with_codes": 4,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 9,
+        "id": 1477,
+        "logo": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/207977/merchant_100x32/JNBOLogo_234x60.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/207977/merchant_250x80/JNBOLogo_234x60.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/207977/original/JNBOLogo_234x60.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Joe's New Balance Outlet",
+        "payment_types": [],
+        "site_url": "www.joesnewbalanceoutlet.com",
+        "slug": "joes-new-balance-outlet",
+        "uri": "/api/v1/merchants/joes-new-balance-outlet"
+      },
+      "msrp": "64.99",
+      "price": "30.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+        "name": "Women's Athletic Shoes",
+        "slug": "shoes/womens-athletic-shoes"
+      },
+      "quote": "<p>That&#39;s $34 off list price.</p>",
+      "ranking": "5.43",
+      "related_deals_uri": "/api/v1/deals/469043/related",
+      "shipped_price": "30.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:23:00.000-04:00",
+      "teaser_headline": "$31 New Balance",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469043"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Columbia Pictures"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/outerwear",
+          "name": "Outerwear",
+          "slug": "women/outerwear"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "Originally $70, this women's <a href=\"https://www.bradsdeals.com/go/p/469042\">Magnolia Acres Jacket</a> is on sale for $34.99 right now at <a href=\"https://www.bradsdeals.com/go/p/469042\">Columbia.com</a>. Plus shipping is free when you log into your free <a href=\"https://www.bradsdeals.com/go/p/469042-1\">Greater Rewards account</a>. Otherwise, it adds $6. We couldn't find this anywhere else, but similar jackets start at $50. Choose from sizes XS-XL in three colors. Sales tax is charged in most states.",
+      "description_preview": "Originally $70, this women's Magnolia Acres Jacket is on sale for $34.99 right now at Columbia.co...",
+      "details": "",
+      "editor": "Noah",
+      "editor_bd_user_id": "51365245",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-30T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469042",
+      "headline": "Columbia Women's Jacket $35 Shipped",
+      "id": 469042,
+      "image": "https://cdn-images.bradsdeals.com/prod/358958/deal_160x160/columbia-magnolia-jacket.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/358958/deal_88x88/columbia-magnolia-jacket.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/358958/deal_160x160/columbia-magnolia-jacket.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/358958/deal_310x310/columbia-magnolia-jacket.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/358958/original/columbia-magnolia-jacket.jpeg"
+      },
+      "instructions": "<p>Create or log into your free <a href=\"https://www.bradsdeals.com/go/p/469042-1\">Greater Rewards account</a> to get free shipping.</p>",
+      "like_count": 0,
+      "marketing_description": "Brad's Deals is here to give you the upper hand. We are a curated shopping guide for great deals, not a store trying to sell you something.",
+      "marketing_headline": "Columbia Women's Jacket $35 Shipped",
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 2
+        },
+        "deal_count": 5,
+        "id": 1490,
+        "logo": "https://cdn-images.bradsdeals.com/prod/118892/merchant_125x40/columbia.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/118892/merchant_100x32/columbia.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/118892/merchant_125x40/columbia.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/118892/merchant_250x80/columbia.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/118892/original/columbia.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Columbia Sportswear",
+        "payment_types": [],
+        "site_url": "www.columbia.com",
+        "slug": "columbia-sportswear",
+        "uri": "/api/v1/merchants/columbia-sportswear"
+      },
+      "msrp": "70.00",
+      "price": "34.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/outerwear",
+        "name": "Outerwear",
+        "slug": "women/outerwear"
+      },
+      "quote": "<p>That&#39;s a 50% markdown.</p>",
+      "ranking": "8.29",
+      "related_deals_uri": "/api/v1/deals/469042/related",
+      "shipped_price": "34.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:21:00.000-04:00",
+      "teaser_headline": "$35 Columbia",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469042"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Generic"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/health-beauty/home-health-care",
+          "name": "Home Health Care",
+          "slug": "health-beauty/home-health-care"
+        },
+        {
+          "uri": "/api/v1/categories/health-beauty",
+          "name": "Health & Beauty",
+          "slug": "health-beauty"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BRADSDEALS",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469041\">Six-Pack of Holiday Face Masks</a>, already on sale for $10.99, drops to $9.99 at <a href=\"https://www.bradsdeals.com/go/p/469041\">Tanga</a> when you use our exclusive promo code BRADSDEALS during checkout. Plus shipping is free. Choose from two sets of patterns. Check out our <a href=\"https://www.bradsdeals.com/go/p/469041-1\">blog post</a> for more information on face masks. Sales tax is charged in most states.",
+      "description_preview": "This Six-Pack of Holiday Face Masks, already on sale for $10.99, drops to $9.99 at Tanga when you...",
+      "details": "",
+      "editor": "Tom",
+      "editor_bd_user_id": "81719438",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-10T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Deals Under $15",
+          "slug": "deals-under-15",
+          "id": 173
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469041",
+      "headline": "6pk Holiday Masks $10 Shipped",
+      "id": 469041,
+      "image": "https://cdn-images.bradsdeals.com/prod/377493/deal_160x160/holiday-masks.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377493/deal_88x88/holiday-masks.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377493/deal_160x160/holiday-masks.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377493/deal_310x310/holiday-masks.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377493/original/holiday-masks.jpeg"
+      },
+      "instructions": "<p>Use our exclusive promo code <code>BRADSDEALS</code> during checkout to get this discount.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 13,
+        "coupon_type_counts": {
+          "online": 13,
+          "online_with_codes": 13,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 23,
+        "id": 1420,
+        "logo": "https://cdn-images.bradsdeals.com/prod/123503/merchant_125x40/TangaMerchant021914.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/123503/merchant_100x32/TangaMerchant021914.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/123503/merchant_125x40/TangaMerchant021914.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/123503/merchant_250x80/TangaMerchant021914.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/123503/original/TangaMerchant021914.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Tanga",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "www.tanga.com",
+        "slug": "tanga",
+        "uri": "/api/v1/merchants/tanga"
+      },
+      "msrp": "10.99",
+      "price": "9.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/health-beauty/home-health-care",
+        "name": "Home Health Care",
+        "slug": "health-beauty/home-health-care"
+      },
+      "quote": "<p>Choose from two sets of patterns.</p>",
+      "ranking": "0.06",
+      "related_deals_uri": "/api/v1/deals/469041/related",
+      "shipped_price": "9.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:16:00.000-04:00",
+      "teaser_headline": "$10 6pk Masks",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469041"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Pasttry"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/dresses",
+          "name": "Dresses",
+          "slug": "women/dresses"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "SKEADHMD",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469040\">A-Line Dress</a>, originally $25.99, drops to $12.99 when you enter the promo code SKEADHMD during checkout at <a href=\"https://www.bradsdeals.com/go/p/469040\">Fantastick via Amazon</a>. Shipping is free, but you must select it at checkout. Similar ones start at $16 or more elsewhere. This dress is available in multiple colors in sizes S-XXL. Sales tax is charged in most states.",
+      "description_preview": "This A-Line Dress, originally $25.99, drops to $12.99 when you enter the promo code SKEADHMD duri...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-20T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Deals Under $15",
+          "slug": "deals-under-15",
+          "id": 173
+        },
+        {
+          "name": "Fall Fashion",
+          "slug": "fall-fashion-bargains",
+          "id": 174
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        },
+        {
+          "name": "Free Prime Shipping",
+          "slug": "prime-free-shipping",
+          "id": 246
+        },
+        {
+          "name": "Fakespot Verified",
+          "slug": "fakespot-verified",
+          "id": 249
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469040",
+      "headline": "A-Line Dress $13 Shipped",
+      "id": 469040,
+      "image": "https://cdn-images.bradsdeals.com/prod/377492/deal_160x160/floral-a-line-dress.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377492/deal_88x88/floral-a-line-dress.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377492/deal_160x160/floral-a-line-dress.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377492/deal_310x310/floral-a-line-dress.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377492/original/floral-a-line-dress.jpeg"
+      },
+      "instructions": "<ul>\n<li>Enter the promo code <code>SKEADHMD</code> during checkout.</li>\n<li>Shipping is free, but you must select it at checkout.</li>\n</ul>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 5,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 2,
+          "other": 0,
+          "printable": 0,
+          "promotion": 3
+        },
+        "deal_count": 120,
+        "id": 3,
+        "logo": "https://cdn-images.bradsdeals.com/prod/196467/merchant_125x40/amazon-logo.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/196467/merchant_100x32/amazon-logo.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/196467/merchant_125x40/amazon-logo.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/196467/merchant_250x80/amazon-logo.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/196467/original/amazon-logo.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Amazon",
+        "payment_types": [],
+        "site_url": "amazon.com",
+        "slug": "amazon",
+        "uri": "/api/v1/merchants/amazon"
+      },
+      "msrp": "25.99",
+      "price": "12.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/dresses",
+        "name": "Dresses",
+        "slug": "women/dresses"
+      },
+      "quote": "<p>This dress is available in multiple colors in sizes S-XXL.</p>",
+      "ranking": "3.0",
+      "related_deals_uri": "/api/v1/deals/469040/related",
+      "shipped_price": "12.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:12:00.000-04:00",
+      "teaser_headline": "$13 A-Line Dress",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469040"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Generic"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/sports-fitness-camping/fitness-equipment",
+          "name": "Fitness Equipment",
+          "slug": "sports-fitness-camping/fitness-equipment"
+        },
+        {
+          "uri": "/api/v1/categories/sports-fitness-camping",
+          "name": "Sports, Fitness & Camping",
+          "slug": "sports-fitness-camping"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BRADSDEALS",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469039\">Exercise Bike</a>, already on sale for $164.99, drops to $159.99 at <a href=\"https://www.bradsdeals.com/go/p/469039\">Tanga</a> when you use our exclusive promo code BRADSDEALS during checkout. Plus shipping is free. That's the best price we could find on this bike by $40! It features a four-way adjustable seat and a built-in heart rate monitor. Sales tax is charged in most states.",
+      "description_preview": "This Exercise Bike, already on sale for $164.99, drops to $159.99 at Tanga when you use our exclu...",
+      "details": "",
+      "editor": "Tom",
+      "editor_bd_user_id": "81719438",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-02T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469039",
+      "headline": "Exercise Bike $160 Shipped",
+      "id": 469039,
+      "image": "https://cdn-images.bradsdeals.com/prod/377490/deal_160x160/exercise-bike.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377490/deal_88x88/exercise-bike.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377490/deal_160x160/exercise-bike.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377490/deal_310x310/exercise-bike.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377490/original/exercise-bike.jpeg"
+      },
+      "instructions": "<p>Use our exclusive promo code <code>BRADSDEALS</code> during checkout to get this discount.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 13,
+        "coupon_type_counts": {
+          "online": 13,
+          "online_with_codes": 13,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 23,
+        "id": 1420,
+        "logo": "https://cdn-images.bradsdeals.com/prod/123503/merchant_125x40/TangaMerchant021914.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/123503/merchant_100x32/TangaMerchant021914.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/123503/merchant_125x40/TangaMerchant021914.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/123503/merchant_250x80/TangaMerchant021914.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/123503/original/TangaMerchant021914.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Tanga",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "www.tanga.com",
+        "slug": "tanga",
+        "uri": "/api/v1/merchants/tanga"
+      },
+      "msrp": "164.99",
+      "price": "159.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/sports-fitness-camping/fitness-equipment",
+        "name": "Fitness Equipment",
+        "slug": "sports-fitness-camping/fitness-equipment"
+      },
+      "quote": "<p>It features adjustable resistance.</p>",
+      "ranking": "0.03",
+      "related_deals_uri": "/api/v1/deals/469039/related",
+      "shipped_price": "159.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T17:06:00.000-04:00",
+      "teaser_headline": "$160 Exercise Bike",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469039"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Koolaburra"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/throw-pillows-rugs",
+          "name": "Throw Pillows & Rugs",
+          "slug": "home/throw-pillows-rugs"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469037\">Koolaburra by UGG Bella Throw</a> drops from $67 to $50.25 at <a href=\"https://www.bradsdeals.com/go/p/469037\">Kohls.com</a>. Plus you earn $10 in Kohl's Cash. This is the only discounted price we could find. It measures 50\" x 70\", and you can choose from five colors. Shipping adds $8.95 or is free over $75, or you can buy many items online and choose free curbside pickup in select locations. Sales tax is charged in most states.",
+      "description_preview": "This Koolaburra by UGG Bella Throw drops from $67 to $50.25 at Kohls.com. Plus you earn $10 in Ko...",
+      "details": "",
+      "editor": "Lindsay",
+      "editor_bd_user_id": "15725043",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-01T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Holiday Gift Guide",
+          "slug": "holiday",
+          "id": 14
+        },
+        {
+          "name": "Curbside Pickup Available",
+          "slug": "curbside-pickup-available",
+          "id": 259
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469037",
+      "headline": "Koolaburra by UGG Throw $50 + $10 GC",
+      "id": 469037,
+      "image": "https://cdn-images.bradsdeals.com/prod/374897/deal_160x160/ugg-bella-throw-2020-10-6.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/374897/deal_88x88/ugg-bella-throw-2020-10-6.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/374897/deal_160x160/ugg-bella-throw-2020-10-6.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/374897/deal_310x310/ugg-bella-throw-2020-10-6.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/374897/original/ugg-bella-throw-2020-10-6.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 11,
+        "coupon_type_counts": {
+          "online": 6,
+          "online_with_codes": 5,
+          "other": 0,
+          "printable": 0,
+          "promotion": 5
+        },
+        "deal_count": 15,
+        "id": 313,
+        "logo": "https://cdn-images.bradsdeals.com/prod/351357/merchant_125x40/Kohls_Black_and_White.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/351357/merchant_100x32/Kohls_Black_and_White.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/351357/merchant_125x40/Kohls_Black_and_White.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/351357/merchant_250x80/Kohls_Black_and_White.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/351357/original/Kohls_Black_and_White.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Kohl's",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "kohls.com",
+        "slug": "kohls",
+        "uri": "/api/v1/merchants/kohls"
+      },
+      "msrp": "67.00",
+      "price": "50.25",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/throw-pillows-rugs",
+        "name": "Throw Pillows & Rugs",
+        "slug": "home/throw-pillows-rugs"
+      },
+      "quote": "<p>Choose curbside pickup to avoid shipping fees.</p>",
+      "ranking": "6.36",
+      "related_deals_uri": "/api/v1/deals/469037/related",
+      "shipped_price": "59.20",
+      "shipping_cost": "8.95",
+      "starts_at": "2020-10-26T16:53:00.000-04:00",
+      "teaser_headline": "$50 Koolaburra Throw",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469037"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Hudson Hill"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/window-coverings",
+          "name": "Window Coverings",
+          "slug": "home/window-coverings"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BDFREE",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/468862\">2-Pack of Hudson Hill Grommet Curtain Panels</a> drops from $60 to $25 at <a href=\"https://www.bradsdeals.com/go/p/468862\">MorningSave</a>. Plus shipping is free when you follow our instructions. First, sign in or create a free account in order to make a selection. Then, choose a color. Next, select the $7.99 shipping option at checkout. Finally, enter our exclusive code BDFREE at checkout. This is the best price we found by at least $9. Each panel measures 50\" wide x 84\" tall. They fit curtain rods up to 1.25\" in diameter. Choose from seven colors. Sales tax is charged in most states.",
+      "description_preview": "This 2-Pack of Hudson Hill Grommet Curtain Panels drops from $60 to $25 at MorningSave. Plus ship...",
+      "details": "",
+      "editor": "Cindy",
+      "editor_bd_user_id": "51428654",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-04T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/468862",
+      "headline": "2-Pack of 84\" Curtain Panels $25 Shipped",
+      "id": 468862,
+      "image": "https://cdn-images.bradsdeals.com/prod/377328/deal_160x160/hudson.png",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377328/deal_88x88/hudson.png",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377328/deal_160x160/hudson.png",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377328/deal_310x310/hudson.png",
+        "original": "https://cdn-images.bradsdeals.com/prod/377328/original/hudson.png"
+      },
+      "instructions": "<ul>\n<li>Sign in or create a free account in order to make a selection.</li>\n<li>Choose a color. </li>\n<li>Select the $7.99 shipping option at checkout. </li>\n<li>Enter our exclusive code <code>BDFREE</code> at checkout.</li>\n</ul>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 4,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 2,
+          "other": 0,
+          "printable": 0,
+          "promotion": 2
+        },
+        "deal_count": 12,
+        "id": 4960,
+        "logo": "https://cdn-images.bradsdeals.com/prod/176172/merchant_125x40/MorningSave-Logo-transparent_copy.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/176172/merchant_100x32/MorningSave-Logo-transparent_copy.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/176172/merchant_125x40/MorningSave-Logo-transparent_copy.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/176172/merchant_250x80/MorningSave-Logo-transparent_copy.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/176172/original/MorningSave-Logo-transparent_copy.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "MorningSave",
+        "payment_types": [],
+        "site_url": "morningsave",
+        "slug": "morningsave",
+        "uri": "/api/v1/merchants/morningsave"
+      },
+      "msrp": "38.00",
+      "price": "25.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/window-coverings",
+        "name": "Window Coverings",
+        "slug": "home/window-coverings"
+      },
+      "quote": "<p>Choose from seven colors.</p>",
+      "ranking": "0.19",
+      "related_deals_uri": "/api/v1/deals/468862/related",
+      "shipped_price": "25.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:30:00.000-04:00",
+      "teaser_headline": "$25 2pk Curtains",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/468862"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Loose Leaf Tea Market"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/food-drink/drinks",
+          "name": "Drinks",
+          "slug": "food-drink/drinks"
+        },
+        {
+          "uri": "/api/v1/categories/food-drink/groceries-snacks",
+          "name": "Groceries & Snacks",
+          "slug": "food-drink/groceries-snacks"
+        },
+        {
+          "uri": "/api/v1/categories/food-drink",
+          "name": "Food & Drink",
+          "slug": "food-drink"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "50FREESHIPPING",
+      "description": "Through 11/26, this <a href=\"https://www.bradsdeals.com/go/p/469035\">Gratitude Tea &amp; Mug Gift Set</a> is $65 from <a href=\"https://www.bradsdeals.com/go/p/469035\">Loose Leaf Tea Market</a>. Shipping is free when you enter code 50FREESHIPPING at checkout. This set includes a tea mug, a selection of seasonal goodies, and three canisters of assorted tea. Each canister makes approximately 20 cups of tea. Note the mug design, tea, and assorted goodies may vary. We couldn't find this anywhere else! Sales tax is charged in most states.",
+      "description_preview": "Through 11/26, this Gratitude Tea &amp; Mug Gift Set is $65 from Loose Leaf Tea Market. Shipping ...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-26T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Holiday Gift Guide",
+          "slug": "holiday",
+          "id": 14
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469035",
+      "headline": "Tea & Mug Gift Set $65 Shipped",
+      "id": 469035,
+      "image": "https://cdn-images.bradsdeals.com/prod/377487/deal_160x160/tea-mug-and-tea-goodies-gift-set.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377487/deal_88x88/tea-mug-and-tea-goodies-gift-set.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377487/deal_160x160/tea-mug-and-tea-goodies-gift-set.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377487/deal_310x310/tea-mug-and-tea-goodies-gift-set.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377487/original/tea-mug-and-tea-goodies-gift-set.jpeg"
+      },
+      "instructions": "<p>Shipping is free when you enter code <code>50FREESHIPPING</code> at checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 2,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 1,
+        "id": 6888,
+        "logo": "https://cdn-images.bradsdeals.com/prod/376260/merchant_125x40/loose-leaf-logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/376260/merchant_100x32/loose-leaf-logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/376260/merchant_125x40/loose-leaf-logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/376260/merchant_250x80/loose-leaf-logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/376260/original/loose-leaf-logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Loose Leaf Tea Market",
+        "payment_types": [],
+        "site_url": "looseleafteamarket.com",
+        "slug": "loose-leaf-tea-market",
+        "uri": "/api/v1/merchants/loose-leaf-tea-market"
+      },
+      "msrp": "65.00",
+      "price": "65.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/food-drink/drinks",
+        "name": "Drinks",
+        "slug": "food-drink/drinks"
+      },
+      "quote": "<p>This includes a tea mug, a selection of seasonal goodies, and three canisters of assorted tea.</p>",
+      "ranking": "0.0",
+      "related_deals_uri": "/api/v1/deals/469035/related",
+      "shipped_price": "65.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:17:00.000-04:00",
+      "teaser_headline": "$65 Tea Set",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469035"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Coach"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/handbags",
+          "name": "Handbags",
+          "slug": "women/handbags"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "FREESHIP",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469034\">Town Bucket Bag</a> in leather or <a href=\"https://www.bradsdeals.com/go/p/469034-1\">signature canvas</a>, originally $398, is now $159 at <a href=\"https://www.bradsdeals.com/go/p/469034\">Coach Outlet</a>. That's the lowest price we could find. Enter code FREESHIP at checkout for free shipping. Sales tax is charged in most states.",
+      "description_preview": "This Town Bucket Bag in leather or signature canvas, originally $398, is now $159 at Coach Outlet...",
+      "details": "",
+      "editor": "Laura",
+      "editor_bd_user_id": "2424948",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-31T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Holiday Gift Guide",
+          "slug": "holiday",
+          "id": 14
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469034",
+      "headline": "Coach Outlet Town Bucket Bag $159",
+      "id": 469034,
+      "image": "https://cdn-images.bradsdeals.com/prod/377482/deal_160x160/91122_ims99_a0.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377482/deal_88x88/91122_ims99_a0.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377482/deal_160x160/91122_ims99_a0.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377482/deal_310x310/91122_ims99_a0.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377482/original/91122_ims99_a0.jpeg"
+      },
+      "instructions": "<p>Enter code <code>FREESHIP</code> at checkout for free shipping.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 1,
+          "online_with_codes": 1,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 14,
+        "id": 6684,
+        "logo": "https://cdn-images.bradsdeals.com/prod/368396/merchant_125x40/250x250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/368396/merchant_100x32/250x250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/368396/merchant_125x40/250x250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/368396/merchant_250x80/250x250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/368396/original/250x250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "COACH Outlet",
+        "payment_types": [],
+        "site_url": "www.coachoutlet.com",
+        "slug": "coach-outlet",
+        "uri": "/api/v1/merchants/coach-outlet"
+      },
+      "msrp": "398.00",
+      "price": "159.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/handbags",
+        "name": "Handbags",
+        "slug": "women/handbags"
+      },
+      "quote": "<p>Save 60%.</p>",
+      "ranking": "14.12",
+      "related_deals_uri": "/api/v1/deals/469034/related",
+      "shipped_price": "159.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:07:00.000-04:00",
+      "teaser_headline": "$159 Coach Outlet",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469034"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "New Balance"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+          "name": "Women's Athletic Shoes",
+          "slug": "shoes/womens-athletic-shoes"
+        },
+        {
+          "uri": "/api/v1/categories/shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "These women's <a href=\"https://www.bradsdeals.com/go/p/469033\">New Balance 410v6 Trail Shoes</a> drop from $64.99 to $40.29 at <a href=\"https://www.bradsdeals.com/go/p/469033\">Joe's New Balance Outlet</a>. Plus shipping is free. That's the lowest price we could find by at least $12. Varying standard sizes 5-11 and limited wide sizes are available. Sales tax is charged in most states.",
+      "description_preview": "These women's New Balance 410v6 Trail Shoes drop from $64.99 to $40.29 at Joe's New Balance Outle...",
+      "details": "",
+      "editor": "Beverly",
+      "editor_bd_user_id": "81719428",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-04T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469033",
+      "headline": "New Balance 410v6 Shoes $40 Shipped",
+      "id": 469033,
+      "image": "https://cdn-images.bradsdeals.com/prod/374007/deal_160x160/nb410.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/374007/deal_88x88/nb410.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/374007/deal_160x160/nb410.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/374007/deal_310x310/nb410.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/374007/original/nb410.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 4,
+        "coupon_type_counts": {
+          "online": 4,
+          "online_with_codes": 4,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 9,
+        "id": 1477,
+        "logo": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/207977/merchant_100x32/JNBOLogo_234x60.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/207977/merchant_250x80/JNBOLogo_234x60.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/207977/original/JNBOLogo_234x60.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Joe's New Balance Outlet",
+        "payment_types": [],
+        "site_url": "www.joesnewbalanceoutlet.com",
+        "slug": "joes-new-balance-outlet",
+        "uri": "/api/v1/merchants/joes-new-balance-outlet"
+      },
+      "msrp": "64.99",
+      "price": "40.29",
+      "primary_category": {
+        "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+        "name": "Women's Athletic Shoes",
+        "slug": "shoes/womens-athletic-shoes"
+      },
+      "quote": "<p>That&#39;s $25 off the list price.</p>",
+      "ranking": "5.43",
+      "related_deals_uri": "/api/v1/deals/469033/related",
+      "shipped_price": "40.29",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:05:00.000-04:00",
+      "teaser_headline": "$40 New Balance",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469033"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Personalized Planet"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/art-accessories",
+          "name": "Art & Accessories",
+          "slug": "home/art-accessories"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BDPETSTOCKING",
+      "description": "Exclusively for our readers, select <a href=\"https://www.bradsdeals.com/go/p/469032\">Personalized Pet Stockings</a> drop from $29.95 to $16.99 when you add the code BDPETSTOCKING at checkout at <a href=\"https://www.bradsdeals.com/go/p/469032\">Personalized Planet</a>. Shipping is free. You can choose from five different styles, which can all be personalized for free. Sales tax is charged in most states.",
+      "description_preview": "Exclusively for our readers, select Personalized Pet Stockings drop from $29.95 to $16.99 when yo...",
+      "details": "",
+      "editor": "Lindsay",
+      "editor_bd_user_id": "15725043",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-05T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Holiday Decor",
+          "slug": "holiday-decor",
+          "id": 88
+        },
+        {
+          "name": "Personalized Gifts",
+          "slug": "personalized-gifts",
+          "id": 149
+        },
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469032",
+      "headline": "Custom Pet Stockings $17 Shipped",
+      "id": 469032,
+      "image": "https://cdn-images.bradsdeals.com/prod/331864/deal_160x160/pet-stocking-10-9-19.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/331864/deal_88x88/pet-stocking-10-9-19.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/331864/deal_160x160/pet-stocking-10-9-19.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/331864/deal_310x310/pet-stocking-10-9-19.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/331864/original/pet-stocking-10-9-19.jpeg"
+      },
+      "instructions": "<ul>\n<li>Personalize the stocking and add it to your cart.</li>\n<li>Add code <code>BDPETSTOCKING</code> at checkout to drop the price.</li>\n</ul>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 11,
+        "coupon_type_counts": {
+          "online": 5,
+          "online_with_codes": 5,
+          "other": 0,
+          "printable": 0,
+          "promotion": 6
+        },
+        "deal_count": 5,
+        "id": 4707,
+        "logo": "https://cdn-images.bradsdeals.com/prod/144410/merchant_125x40/personalized-planet-logo.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/144410/merchant_100x32/personalized-planet-logo.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/144410/merchant_125x40/personalized-planet-logo.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/144410/merchant_250x80/personalized-planet-logo.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/144410/original/personalized-planet-logo.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Personalized Planet",
+        "payment_types": [],
+        "site_url": "personalizedplanet.com",
+        "slug": "personalized-planet",
+        "uri": "/api/v1/merchants/personalized-planet"
+      },
+      "msrp": "29.95",
+      "price": "16.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/art-accessories",
+        "name": "Art & Accessories",
+        "slug": "home/art-accessories"
+      },
+      "quote": "<p>Choose from five styles.</p>",
+      "ranking": "10.28",
+      "related_deals_uri": "/api/v1/deals/469032/related",
+      "shipped_price": "16.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:04:00.000-04:00",
+      "teaser_headline": "$17 Pet Stockings",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469032"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Lara & Lou"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/throw-pillows-rugs",
+          "name": "Throw Pillows & Rugs",
+          "slug": "home/throw-pillows-rugs"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469031\">2' x 3' Cotton Dhurrie Rug</a>, originally $44.99, is on sale for $29.99 from <a href=\"https://www.bradsdeals.com/go/p/469031\">Lara &amp; Lou</a>. Shipping adds $5. This is the best price we found by $6. This handmade rug can be machine washed but should be hung dry. Sales tax is charged in most states.",
+      "description_preview": "This 2' x 3' Cotton Dhurrie Rug, originally $44.99, is on sale for $29.99 from Lara &amp; Lou. Sh...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-07T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Direct Merchant - Home",
+          "slug": "direct-merchant-home",
+          "id": 224
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469031",
+      "headline": "2' x 3' Cotton Rug $35 Shipped",
+      "id": 469031,
+      "image": "https://cdn-images.bradsdeals.com/prod/377485/deal_160x160/cotton-rug.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377485/deal_88x88/cotton-rug.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377485/deal_160x160/cotton-rug.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377485/deal_310x310/cotton-rug.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377485/original/cotton-rug.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 0,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 1,
+        "id": 6725,
+        "logo": "https://cdn-images.bradsdeals.com/prod/365256/merchant_125x40/lara___Lou_logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/365256/merchant_100x32/lara___Lou_logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/365256/merchant_125x40/lara___Lou_logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/365256/merchant_250x80/lara___Lou_logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/365256/original/lara___Lou_logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Lara & Lou",
+        "payment_types": [],
+        "site_url": "Www.laraandlou.com",
+        "slug": "lara-lou",
+        "uri": "/api/v1/merchants/lara-lou"
+      },
+      "msrp": "44.99",
+      "price": "29.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/throw-pillows-rugs",
+        "name": "Throw Pillows & Rugs",
+        "slug": "home/throw-pillows-rugs"
+      },
+      "quote": "<p>This is the best price we found by $6.</p>",
+      "ranking": "6.85",
+      "related_deals_uri": "/api/v1/deals/469031/related",
+      "shipped_price": "34.99",
+      "shipping_cost": "5.00",
+      "starts_at": "2020-10-26T16:01:00.000-04:00",
+      "teaser_headline": "$35 Cotton Rug",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469031"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Afonie"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/handbags",
+          "name": "Handbags",
+          "slug": "women/handbags"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "SHIPFREE",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/468866\">Leather Multi-Pocket Crossbody</a> from <a href=\"https://www.bradsdeals.com/go/p/468866\">Afonie</a> drops from $139 to $18. Shipping is free when you enter the code SHIPFREE at checkout. This is the best price we found by at least $11. It measures 7.5\" wide x 8.5\" high and comes in seven colors. It has a fully lined interior and an adjustable shoulder strap. Sales tax is charged in most states.",
+      "description_preview": "This Leather Multi-Pocket Crossbody from Afonie drops from $139 to $18. Shipping is free when you...",
+      "details": "",
+      "editor": "Cindy",
+      "editor_bd_user_id": "51428654",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-03T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/468866",
+      "headline": "Leather Crossbody $18 Shipped",
+      "id": 468866,
+      "image": "https://cdn-images.bradsdeals.com/prod/377336/deal_160x160/soft_leather_handbag.png",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377336/deal_88x88/soft_leather_handbag.png",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377336/deal_160x160/soft_leather_handbag.png",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377336/deal_310x310/soft_leather_handbag.png",
+        "original": "https://cdn-images.bradsdeals.com/prod/377336/original/soft_leather_handbag.png"
+      },
+      "instructions": "<p>Enter code <code>SHIPFREE</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 0,
+          "printable": 0,
+          "promotion": 2
+        },
+        "deal_count": 12,
+        "id": 6650,
+        "logo": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/358909/merchant_100x32/afonie_logo_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/358909/merchant_125x40/afonie_logo_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/358909/merchant_250x80/afonie_logo_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/358909/original/afonie_logo_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "AFONiE",
+        "payment_types": [],
+        "site_url": "afonie.com",
+        "slug": "afonie",
+        "uri": "/api/v1/merchants/afonie"
+      },
+      "msrp": "139.00",
+      "price": "18.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/handbags",
+        "name": "Handbags",
+        "slug": "women/handbags"
+      },
+      "quote": "<p>Choose from seven colors.</p>",
+      "ranking": "10.87",
+      "related_deals_uri": "/api/v1/deals/468866/related",
+      "shipped_price": "18.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T16:00:00.000-04:00",
+      "teaser_headline": "$18 Crossbody",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/468866"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Little Sky Stone"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/jewelry-watches/womens-jewelry",
+          "name": "Women's Jewelry",
+          "slug": "jewelry-watches/womens-jewelry"
+        },
+        {
+          "uri": "/api/v1/categories/jewelry-watches",
+          "name": "Jewelry & Watches",
+          "slug": "jewelry-watches"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "LSSBRADS20",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469030\">October Birthstone Opal Crystal Necklace</a> drops from $44 to $35.20 when you enter our exclusive promo code LSSBRADS20 during checkout at <a href=\"https://www.bradsdeals.com/go/p/469030\">Little Sky Stone</a>. Plus shipping is free. That's the lowest price we could find based on similar styles by $4. The stone measures 5mm x 5mm, and the chain is adjustable from 16\"-18\". Sales tax is charged in most states.",
+      "description_preview": "This October Birthstone Opal Crystal Necklace drops from $44 to $35.20 when you enter our exclusi...",
+      "details": "",
+      "editor": "Beverly",
+      "editor_bd_user_id": "81719428",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-14T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469030",
+      "headline": "Opal Crystal Necklace $35 Shipped",
+      "id": 469030,
+      "image": "https://cdn-images.bradsdeals.com/prod/377483/deal_160x160/opalnecklace.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377483/deal_88x88/opalnecklace.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377483/deal_160x160/opalnecklace.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377483/deal_310x310/opalnecklace.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377483/original/opalnecklace.jpeg"
+      },
+      "instructions": "<p>Enter code <code>LSSBRADS20</code> during checkout to get the discount.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 1,
+        "coupon_type_counts": {
+          "online": 1,
+          "online_with_codes": 1,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 7,
+        "id": 6814,
+        "logo": "https://cdn-images.bradsdeals.com/prod/372075/merchant_125x40/FullLogo-FullColor_250x76.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/372075/merchant_100x32/FullLogo-FullColor_250x76.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/372075/merchant_125x40/FullLogo-FullColor_250x76.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/372075/merchant_250x80/FullLogo-FullColor_250x76.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/372075/original/FullLogo-FullColor_250x76.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Little Sky Stone",
+        "payment_types": [],
+        "site_url": "www.littleskystone.com",
+        "slug": "little-sky-stone",
+        "uri": "/api/v1/merchants/little-sky-stone"
+      },
+      "msrp": "44.00",
+      "price": "35.20",
+      "primary_category": {
+        "uri": "/api/v1/categories/jewelry-watches/womens-jewelry",
+        "name": "Women's Jewelry",
+        "slug": "jewelry-watches/womens-jewelry"
+      },
+      "quote": "<p>It has an adjustable chain from 16&quot;-18&quot;.</p>",
+      "ranking": "0.0",
+      "related_deals_uri": "/api/v1/deals/469030/related",
+      "shipped_price": "35.20",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:53:00.000-04:00",
+      "teaser_headline": "$35 Opal Crystal Necklace",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469030"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Tiosebon"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/shoes/mens-boots",
+          "name": "Men's Boots",
+          "slug": "shoes/mens-boots"
+        },
+        {
+          "uri": "/api/v1/categories/shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BD808",
+      "description": "These men's <a href=\"https://www.bradsdeals.com/go/p/469025\">Faux-Leather Boots</a> drop from $43.89 to $32.89 when you enter our exclusive code BD808 during checkout at <a href=\"https://www.bradsdeals.com/go/p/469025\">Tiosebon</a>. Shipping adds $5. This is the best price we found by $9. These boots come in multiple colors in sizes 6.5-12. Sales tax is charged in most states.",
+      "description_preview": "These men's Faux-Leather Boots drop from $43.89 to $32.89 when you enter our exclusive code BD808...",
+      "details": "",
+      "editor": "Jason",
+      "editor_bd_user_id": "68806131",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-16T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Fall Fashion",
+          "slug": "fall-fashion-bargains",
+          "id": 174
+        },
+        {
+          "name": "Direct Merchant - Outdoor Living",
+          "slug": "direct-merchant-outdoor-living",
+          "id": 226
+        },
+        {
+          "name": "Axis",
+          "slug": "axis",
+          "id": 234
+        }
+      ],
+      "gender": "m",
+      "go_link": "https://www.bradsdeals.com/go/p/469025",
+      "headline": "Men's Faux-Leather Boots $38 Shipped",
+      "id": 469025,
+      "image": "https://cdn-images.bradsdeals.com/prod/377481/deal_160x160/mens-faux-leather-boots.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377481/deal_88x88/mens-faux-leather-boots.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377481/deal_160x160/mens-faux-leather-boots.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377481/deal_310x310/mens-faux-leather-boots.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377481/original/mens-faux-leather-boots.jpeg"
+      },
+      "instructions": "<p>Enter our exclusive code <code>BD808</code> during checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 6,
+        "coupon_type_counts": {
+          "online": 5,
+          "online_with_codes": 5,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 10,
+        "id": 6183,
+        "logo": "https://cdn-images.bradsdeals.com/prod/331959/merchant_125x40/Tiosebon__Konhill_250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/331959/merchant_100x32/Tiosebon__Konhill_250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/331959/merchant_125x40/Tiosebon__Konhill_250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/331959/merchant_250x80/Tiosebon__Konhill_250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/331959/original/Tiosebon__Konhill_250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "Tiosebon",
+        "payment_types": [],
+        "site_url": "tiosebon.com",
+        "slug": "tiosebon",
+        "uri": "/api/v1/merchants/tiosebon"
+      },
+      "msrp": "43.89",
+      "price": "32.89",
+      "primary_category": {
+        "uri": "/api/v1/categories/shoes/mens-boots",
+        "name": "Men's Boots",
+        "slug": "shoes/mens-boots"
+      },
+      "quote": "<p>These boots come in multiple colors in sizes 6.5-12.</p>",
+      "ranking": "5.53",
+      "related_deals_uri": "/api/v1/deals/469025/related",
+      "shipped_price": "37.89",
+      "shipping_cost": "5.00",
+      "starts_at": "2020-10-26T15:46:00.000-04:00",
+      "teaser_headline": "$38 Boots",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469025"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Coach"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/women/handbags",
+          "name": "Handbags",
+          "slug": "women/handbags"
+        },
+        {
+          "uri": "/api/v1/categories/women",
+          "name": "Women",
+          "slug": "women"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "`FREESHIP`",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469028\">Addison Tote</a> in the pictured signature canvas or <a href=\"https://www.bradsdeals.com/go/p/469028-1\">crossgrain leather</a>, originally $450, is now $149. This is the lowest price we could find. Add promo code FREESHIP for free shipping. Sales tax is charged in most states.",
+      "description_preview": "This Addison Tote in the pictured signature canvas or crossgrain leather, originally $450, is now...",
+      "details": "",
+      "editor": "Laura",
+      "editor_bd_user_id": "2424948",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-31T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Holiday Gift Guide",
+          "slug": "holiday",
+          "id": 14
+        },
+        {
+          "name": "Fall Fashion",
+          "slug": "fall-fashion-bargains",
+          "id": 174
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469028",
+      "headline": "Coach Outlet Addison Tote $149",
+      "id": 469028,
+      "image": "https://cdn-images.bradsdeals.com/prod/377479/deal_160x160/91017_imaa8_a0.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377479/deal_88x88/91017_imaa8_a0.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377479/deal_160x160/91017_imaa8_a0.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377479/deal_310x310/91017_imaa8_a0.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377479/original/91017_imaa8_a0.jpeg"
+      },
+      "instructions": "<ul>\n<li>Add promo code FREESHIP at checkout for free shipping.</li>\n</ul>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 2,
+        "coupon_type_counts": {
+          "online": 1,
+          "online_with_codes": 1,
+          "other": 0,
+          "printable": 0,
+          "promotion": 1
+        },
+        "deal_count": 14,
+        "id": 6684,
+        "logo": "https://cdn-images.bradsdeals.com/prod/368396/merchant_125x40/250x250.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/368396/merchant_100x32/250x250.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/368396/merchant_125x40/250x250.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/368396/merchant_250x80/250x250.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/368396/original/250x250.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": false,
+          "alternate_disclaimer": ""
+        },
+        "name": "COACH Outlet",
+        "payment_types": [],
+        "site_url": "www.coachoutlet.com",
+        "slug": "coach-outlet",
+        "uri": "/api/v1/merchants/coach-outlet"
+      },
+      "msrp": "450.00",
+      "price": "149.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/women/handbags",
+        "name": "Handbags",
+        "slug": "women/handbags"
+      },
+      "quote": "<p>It features a zip top and outside slip pockets.</p>",
+      "ranking": "14.12",
+      "related_deals_uri": "/api/v1/deals/469028/related",
+      "shipped_price": "149.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:44:00.000-04:00",
+      "teaser_headline": "$149 Coach Outlet",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469028"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": true,
+      "brands": [
+        "Generic"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/health-beauty/home-health-care",
+          "name": "Home Health Care",
+          "slug": "health-beauty/home-health-care"
+        },
+        {
+          "uri": "/api/v1/categories/health-beauty",
+          "name": "Health & Beauty",
+          "slug": "health-beauty"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "BDSHTSF",
+      "description": "Exclusively for our readers, this <a href=\"https://www.bradsdeals.com/go/p/469027\">Shiatsu Foot Massager with Remote Control</a> drops from $89.99 to $73.99 at <a href=\"https://www.bradsdeals.com/go/p/469027\">Daily Steals</a> when you enter our code BDSHTSF at checkout. All orders ship for free. This is the lowest price we found by $6. Choose from two colors. Sales tax is charged in most states.",
+      "description_preview": "Exclusively for our readers, this Shiatsu Foot Massager with Remote Control drops from $89.99 to ...",
+      "details": "",
+      "editor": "Jillian",
+      "editor_bd_user_id": "61343100",
+      "exclude_from_pds": false,
+      "expires_at": "2020-11-05T23:59:00.000-05:00",
+      "flags": [
+        {
+          "name": "Exclusive Collection",
+          "slug": "exclusive-collection",
+          "id": 86
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469027",
+      "headline": "Shiatsu Foot Massager $74 Shipped",
+      "id": 469027,
+      "image": "https://cdn-images.bradsdeals.com/prod/377477/deal_160x160/shiatsu-foot-massager.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377477/deal_88x88/shiatsu-foot-massager.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377477/deal_160x160/shiatsu-foot-massager.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377477/deal_310x310/shiatsu-foot-massager.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377477/original/shiatsu-foot-massager.jpeg"
+      },
+      "instructions": "<p>Enter our exclusive code <code>BDSHTSF</code> at checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 22,
+        "coupon_type_counts": {
+          "online": 22,
+          "online_with_codes": 22,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 24,
+        "id": 3551,
+        "logo": "https://cdn-images.bradsdeals.com/prod/296802/merchant_125x40/Screen_Shot_2019-01-03_at_10.05.14_AM.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/296802/merchant_100x32/Screen_Shot_2019-01-03_at_10.05.14_AM.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/296802/merchant_125x40/Screen_Shot_2019-01-03_at_10.05.14_AM.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/296802/merchant_250x80/Screen_Shot_2019-01-03_at_10.05.14_AM.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/296802/original/Screen_Shot_2019-01-03_at_10.05.14_AM.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Daily Steals",
+        "payment_types": [],
+        "site_url": "dailysteals.com",
+        "slug": "daily-steals",
+        "uri": "/api/v1/merchants/daily-steals"
+      },
+      "msrp": "90.00",
+      "price": "74.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/health-beauty/home-health-care",
+        "name": "Home Health Care",
+        "slug": "health-beauty/home-health-care"
+      },
+      "quote": "<p>Save $16 with our exclusive code.</p>",
+      "ranking": "11.46",
+      "related_deals_uri": "/api/v1/deals/469027/related",
+      "shipped_price": "74.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:43:00.000-04:00",
+      "teaser_headline": "$74 Foot Massager",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469027"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Apple"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/electronics/computer-accessories-peripherals",
+          "name": "Computer Accessories & Peripherals",
+          "slug": "electronics/computer-accessories-peripherals"
+        },
+        {
+          "uri": "/api/v1/categories/electronics",
+          "name": "Electronics",
+          "slug": "electronics"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "Get an <a href=\"https://www.bradsdeals.com/go/p/469026\">Apple-Certified Refurbished Apple Pencil for iPad</a> for $85 with free shipping at <a href=\"https://www.bradsdeals.com/go/p/469026\">Apple.com</a>. This is $10 less than the next best price. This works in conjunction with the iPad Pro, iPad Air (gen 4), or the newest iPad models (gen 7 and 8), and it has sensors for pressure and tilt, helping to create strong or light strokes when used for artistic applications. Plus Apple's refurbishing process is rigorous, and it includes the same one-year warranty as a brand-new model. Sales tax is charged in most states.",
+      "description_preview": "Get an Apple-Certified Refurbished Apple Pencil for iPad for $85 with free shipping at Apple.com....",
+      "details": "",
+      "editor": "David",
+      "editor_bd_user_id": "11059516",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-29T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Apple Collection",
+          "slug": "apple-collection",
+          "id": 96
+        },
+        {
+          "name": "Tech Deals",
+          "slug": "tech-deals-best-of-tech",
+          "id": 115
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469026",
+      "headline": "Refurbished Apple Pencil $85 Shipped",
+      "id": 469026,
+      "image": "https://cdn-images.bradsdeals.com/prod/267107/deal_160x160/apple-pencil.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/267107/deal_88x88/apple-pencil.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/267107/deal_160x160/apple-pencil.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/267107/deal_310x310/apple-pencil.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/267107/original/apple-pencil.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 17,
+        "coupon_type_counts": {
+          "online": 0,
+          "online_with_codes": 0,
+          "other": 2,
+          "printable": 0,
+          "promotion": 17
+        },
+        "deal_count": 2,
+        "id": 239,
+        "logo": "https://cdn-images.bradsdeals.com/prod/183185/merchant_125x40/Apple-store.jpg",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/183185/merchant_100x32/Apple-store.jpg",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/183185/merchant_125x40/Apple-store.jpg",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/183185/merchant_250x80/Apple-store.jpg",
+          "original": "https://cdn-images.bradsdeals.com/prod/183185/original/Apple-store.jpg"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": true,
+          "coupon_name": "Promotion",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Apple",
+        "payment_types": [],
+        "site_url": "store.apple.com",
+        "slug": "apple",
+        "uri": "/api/v1/merchants/apple"
+      },
+      "msrp": "99.00",
+      "price": "85.00",
+      "primary_category": {
+        "uri": "/api/v1/categories/electronics/computer-accessories-peripherals",
+        "name": "Computer Accessories & Peripherals",
+        "slug": "electronics/computer-accessories-peripherals"
+      },
+      "quote": "<p>Apple&#39;s refurbishing process is rigorous and includes the same one-year warranty as a brand-new model.</p>",
+      "ranking": "0.15",
+      "related_deals_uri": "/api/v1/deals/469026/related",
+      "shipped_price": "85.00",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:42:00.000-04:00",
+      "teaser_headline": "$85 Refurb Apple Pencil",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469026"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Union & Scale"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/home-office-furniture",
+          "name": "Home Office Furniture",
+          "slug": "home/home-office-furniture"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469024\">Union &amp; Scale Essentials Mesh-Back Fabric Task Chair</a> drops from $129.99 to $69.99 with free shipping at <a href=\"https://www.bradsdeals.com/go/p/469024\">Staples.com</a>. This was the best price we found by $13. It has adjustable tilt and height. Sales tax is charged in most states.",
+      "description_preview": "This Union &amp; Scale Essentials Mesh-Back Fabric Task Chair drops from $129.99 to $69.99 with f...",
+      "details": "",
+      "editor": "David",
+      "editor_bd_user_id": "11059516",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-31T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Black Friday Value",
+          "slug": "black-friday-value",
+          "id": 263
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469024",
+      "headline": "Union & Scale Essentials Office Chair $70",
+      "id": 469024,
+      "image": "https://cdn-images.bradsdeals.com/prod/377476/deal_160x160/union-and-scale-essentials-mesh-back-fabric-task-chair.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/377476/deal_88x88/union-and-scale-essentials-mesh-back-fabric-task-chair.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/377476/deal_160x160/union-and-scale-essentials-mesh-back-fabric-task-chair.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/377476/deal_310x310/union-and-scale-essentials-mesh-back-fabric-task-chair.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/377476/original/union-and-scale-essentials-mesh-back-fabric-task-chair.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 14,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 1,
+          "other": 12,
+          "printable": 1,
+          "promotion": 11
+        },
+        "deal_count": 9,
+        "id": 197,
+        "logo": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/332352/merchant_100x32/Staples-logo-2019.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/332352/merchant_250x80/Staples-logo-2019.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/332352/original/Staples-logo-2019.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Staples",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "www.staples.com",
+        "slug": "staples",
+        "uri": "/api/v1/merchants/staples"
+      },
+      "msrp": "129.99",
+      "price": "69.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/home-office-furniture",
+        "name": "Home Office Furniture",
+        "slug": "home/home-office-furniture"
+      },
+      "quote": "<p>This is likely to be the lowest price we see for this chair.</p>",
+      "ranking": "7.59",
+      "related_deals_uri": "/api/v1/deals/469024/related",
+      "shipped_price": "69.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:34:00.000-04:00",
+      "teaser_headline": "$70 Office Chair",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469024"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Staples"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/home/home-office-furniture",
+          "name": "Home Office Furniture",
+          "slug": "home/home-office-furniture"
+        },
+        {
+          "uri": "/api/v1/categories/home",
+          "name": "Home",
+          "slug": "home"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "63820",
+      "description": "This <a href=\"https://www.bradsdeals.com/go/p/469023\">Carder Mesh Task Chair</a> drops from $109.99 to $89.99 with free shipping at <a href=\"https://www.bradsdeals.com/go/p/469023\">Staples.com</a> after you use code 63820 in the cart. This was the lowest price we found by $20. It has adjustable padded arms, a contoured seat with a molded mesh back, and pneumatic seat height adjustment. Sales tax is charged in most states.",
+      "description_preview": "This Carder Mesh Task Chair drops from $109.99 to $89.99 with free shipping at Staples.com after ...",
+      "details": "",
+      "editor": "David",
+      "editor_bd_user_id": "11059516",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-28T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Black Friday Value",
+          "slug": "black-friday-value",
+          "id": 263
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469023",
+      "headline": "Carder Mesh Task Chair $90 Shipped",
+      "id": 469023,
+      "image": "https://cdn-images.bradsdeals.com/prod/114206/deal_160x160/Carder-Mesh-Task-Chair.jpg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/114206/deal_88x88/Carder-Mesh-Task-Chair.jpg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/114206/deal_160x160/Carder-Mesh-Task-Chair.jpg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/114206/deal_310x310/Carder-Mesh-Task-Chair.jpg",
+        "original": "https://cdn-images.bradsdeals.com/prod/114206/original/Carder-Mesh-Task-Chair.jpg"
+      },
+      "instructions": "<p>Apply code <code>63820</code> in the cart.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 14,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 1,
+          "other": 12,
+          "printable": 1,
+          "promotion": 11
+        },
+        "deal_count": 9,
+        "id": 197,
+        "logo": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/332352/merchant_100x32/Staples-logo-2019.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/332352/merchant_250x80/Staples-logo-2019.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/332352/original/Staples-logo-2019.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Staples",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "www.staples.com",
+        "slug": "staples",
+        "uri": "/api/v1/merchants/staples"
+      },
+      "msrp": "199.99",
+      "price": "89.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/home/home-office-furniture",
+        "name": "Home Office Furniture",
+        "slug": "home/home-office-furniture"
+      },
+      "quote": "<p>This matches the best price we&#39;ve seen.</p>",
+      "ranking": "7.59",
+      "related_deals_uri": "/api/v1/deals/469023/related",
+      "shipped_price": "89.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:28:00.000-04:00",
+      "teaser_headline": "$90 Task Chair",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469023"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "Hammermill"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/office-education/office-supplies",
+          "name": "Office Supplies",
+          "slug": "office-education/office-supplies"
+        },
+        {
+          "uri": "/api/v1/categories/office-education",
+          "name": "Office & Education",
+          "slug": "office-education"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "Get <a href=\"https://www.bradsdeals.com/go/p/469022\">10 Reams of Hammermill Copy Paper</a> for $29.99 with free shipping at <a href=\"https://www.bradsdeals.com/go/p/469022\">Staples.com</a>. That's the best price by $8 from a trusted online retailer, and most retailers don't offer free shipping at this price. Each ream contains 500 sheets, which means you're getting 5,000 sheets of paper in total. If you plan to order more than $100 worth, use code 63820 at checkout to get an additional $20 off your total order. Add the code in the cart and the discount will show up during checkout. Sales tax is charged in most states.",
+      "description_preview": "Get 10 Reams of Hammermill Copy Paper for $29.99 with free shipping at Staples.com. That's the be...",
+      "details": "",
+      "editor": "David",
+      "editor_bd_user_id": "11059516",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-28T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Deals Under $25",
+          "slug": "deals-under-25",
+          "id": 166
+        },
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        }
+      ],
+      "gender": "n",
+      "go_link": "https://www.bradsdeals.com/go/p/469022",
+      "headline": "10 Reams of Hammermill Paper $30 Shipped",
+      "id": 469022,
+      "image": "https://cdn-images.bradsdeals.com/prod/352701/deal_160x160/hammermill-copy-paper.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/352701/deal_88x88/hammermill-copy-paper.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/352701/deal_160x160/hammermill-copy-paper.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/352701/deal_310x310/hammermill-copy-paper.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/352701/original/hammermill-copy-paper.jpeg"
+      },
+      "instructions": "<p>Optional: If you order more than $100 worth, use code <code>63820</code> in the cart to get an additional $20 off your order total. The discount won&#39;t appear until you begin checkout.</p>",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 14,
+        "coupon_type_counts": {
+          "online": 2,
+          "online_with_codes": 1,
+          "other": 12,
+          "printable": 1,
+          "promotion": 11
+        },
+        "deal_count": 9,
+        "id": 197,
+        "logo": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/332352/merchant_100x32/Staples-logo-2019.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/332352/merchant_125x40/Staples-logo-2019.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/332352/merchant_250x80/Staples-logo-2019.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/332352/original/Staples-logo-2019.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Staples",
+        "payment_types": [
+          {
+            "name": "Apple Pay",
+            "logo_urls": {
+              "128x128": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_128x128/apple-pay-512x512.png",
+              "256x256": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_256x256/apple-pay-512x512.png",
+              "512x512": "https://cdn-images.bradsdeals.com/prod/229001/payment_type_512x512/apple-pay-512x512.png",
+              "original": "https://cdn-images.bradsdeals.com/prod/229001/original/apple-pay-512x512.png"
+            }
+          }
+        ],
+        "site_url": "www.staples.com",
+        "slug": "staples",
+        "uri": "/api/v1/merchants/staples"
+      },
+      "msrp": "49.99",
+      "price": "29.99",
+      "primary_category": {
+        "uri": "/api/v1/categories/office-education/office-supplies",
+        "name": "Office Supplies",
+        "slug": "office-education/office-supplies"
+      },
+      "quote": "<p>Staples has free shipping with no minimum.</p>",
+      "ranking": "0.04",
+      "related_deals_uri": "/api/v1/deals/469022/related",
+      "shipped_price": "29.99",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:26:00.000-04:00",
+      "teaser_headline": "$30 10pk Copy Paper",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469022"
+    },
+    {
+      "alternate_headline": null,
+      "alternate_image_urls": null,
+      "brads_deals_exclusive": false,
+      "brands": [
+        "New Balance"
+      ],
+      "categories": [
+        {
+          "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+          "name": "Women's Athletic Shoes",
+          "slug": "shoes/womens-athletic-shoes"
+        },
+        {
+          "uri": "/api/v1/categories/shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "coupons": [],
+      "coupon_code": "",
+      "description": "These women's <a href=\"https://www.bradsdeals.com/go/p/469021\">New Balance 520v6 Shoes</a> in grey drop from $64.99 to $50.04 at <a href=\"https://www.bradsdeals.com/go/p/469021\">Joe's New Balance Outlet</a>. Plus shipping is free. That's the lowest price we could find by $3. Most standard and wide sizes 5-12 are available. You can also get them in the <a href=\"https://www.bradsdeals.com/go/p/469021-1\">black</a> color. Sales tax is charged in most states.",
+      "description_preview": "These women's New Balance 520v6 Shoes in grey drop from $64.99 to $50.04 at Joe's New Balance Out...",
+      "details": "",
+      "editor": "Beverly",
+      "editor_bd_user_id": "81719428",
+      "exclude_from_pds": false,
+      "expires_at": "2020-10-26T23:59:00.000-04:00",
+      "flags": [
+        {
+          "name": "Free Shipping",
+          "slug": "free-shipping",
+          "id": 208
+        },
+        {
+          "name": "Proofread by Kaitlynn",
+          "slug": "proofread-by-kaitlynn",
+          "id": 265
+        }
+      ],
+      "gender": "f",
+      "go_link": "https://www.bradsdeals.com/go/p/469021",
+      "headline": "New Balance 520v6 Shoes $50 Shipped",
+      "id": 469021,
+      "image": "https://cdn-images.bradsdeals.com/prod/374012/deal_160x160/nb.jpeg",
+      "image_urls": {
+        "88x88": "https://cdn-images.bradsdeals.com/prod/374012/deal_88x88/nb.jpeg",
+        "160x160": "https://cdn-images.bradsdeals.com/prod/374012/deal_160x160/nb.jpeg",
+        "310x310": "https://cdn-images.bradsdeals.com/prod/374012/deal_310x310/nb.jpeg",
+        "original": "https://cdn-images.bradsdeals.com/prod/374012/original/nb.jpeg"
+      },
+      "instructions": "",
+      "like_count": 0,
+      "marketing_description": null,
+      "marketing_headline": null,
+      "marketing_image_urls": null,
+      "merchant": {
+        "coupon_count": 4,
+        "coupon_type_counts": {
+          "online": 4,
+          "online_with_codes": 4,
+          "other": 0,
+          "printable": 0,
+          "promotion": 0
+        },
+        "deal_count": 9,
+        "id": 1477,
+        "logo": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+        "logo_urls": {
+          "100x32": "https://cdn-images.bradsdeals.com/prod/207977/merchant_100x32/JNBOLogo_234x60.png",
+          "125x40": "https://cdn-images.bradsdeals.com/prod/207977/merchant_125x40/JNBOLogo_234x60.png",
+          "250x80": "https://cdn-images.bradsdeals.com/prod/207977/merchant_250x80/JNBOLogo_234x60.png",
+          "original": "https://cdn-images.bradsdeals.com/prod/207977/original/JNBOLogo_234x60.png"
+        },
+        "merchant_rules": {
+          "disable_social_sharing": false,
+          "disable_mobile_view": false,
+          "hide_expiration_date": false,
+          "coupon_name": "coupon",
+          "advertising_disclosure": false,
+          "deal_go_link_text": null,
+          "seo_validation": true,
+          "alternate_disclaimer": ""
+        },
+        "name": "Joe's New Balance Outlet",
+        "payment_types": [],
+        "site_url": "www.joesnewbalanceoutlet.com",
+        "slug": "joes-new-balance-outlet",
+        "uri": "/api/v1/merchants/joes-new-balance-outlet"
+      },
+      "msrp": "64.99",
+      "price": "50.04",
+      "primary_category": {
+        "uri": "/api/v1/categories/shoes/womens-athletic-shoes",
+        "name": "Women's Athletic Shoes",
+        "slug": "shoes/womens-athletic-shoes"
+      },
+      "quote": "<p>Choose from grey or black colors.</p>",
+      "ranking": "5.42",
+      "related_deals_uri": "/api/v1/deals/469021/related",
+      "shipped_price": "50.04",
+      "shipping_cost": "0.00",
+      "starts_at": "2020-10-26T15:26:00.000-04:00",
+      "teaser_headline": "$50 New Balance",
+      "third_party_pixel": "",
+      "uri": "/api/v1/deals/469021"
+    }
+  ],
+  "count": 1057
+}
